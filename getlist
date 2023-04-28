@@ -48,5 +48,19 @@
     "price": 27000000,
     "description": "khả năng đáp ứng tốt các nhu cầu sử dụng cơ bản",
     "image_url": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/454532618.jpeg"
+  },
+   {
+    "id": "8",
+    "name": "Xiaomi Redmi Note 12 4/128GB",
+    "price": 2600000,
+    "description": "Redmi Note 12 là chiếc smartphone mới được ra mắt của hãng công nghệ Xiaomi.",
+    "image_url": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/287767650.jpeg"
+  },
+   {
+    "id": "9",
+    "name": "OPPO Reno8 Z 5G",
+    "price": 2600000,
+    "description": "OPPO Reno8 Z 5G một tuyệt tác mới nhà OPPO trong phân khúc tầm trung đã chính thức có mặt tại Việt Nam.",
+    "image_url": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/353985554.jpeg"
   }
 ]
