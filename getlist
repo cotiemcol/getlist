@@ -33,5 +33,20 @@
     "price": 2600000,
     "description": "khả năng đáp ứng tốt các nhu cầu sử dụng cơ bản",
     "image_url": "https://cdn.tgdd.vn/Products/Images/42/290878/realme-c30s-den-4gb-1.jpg"
+  },
+   {
+    "id": "6",
+    "name": "Xiaomi Redmi 10A 3GB-64GB",
+    "price": 2600000,
+    "description": "Ở phân khúc giá, chiếc điện thoại này sở hữu một màn hình lớn",
+    "image_url": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/2079401260.jpeg"
+  }
+  ,
+   {
+    "id": "7",
+    "name": "Samsung Galaxy S23 Ultra 12/512GB",
+    "price": 27000000,
+    "description": "khả năng đáp ứng tốt các nhu cầu sử dụng cơ bản",
+    "image_url": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/454532618.jpeg"
   }
 ]
